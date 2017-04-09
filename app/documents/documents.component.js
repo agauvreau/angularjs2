@@ -18,19 +18,19 @@ var DocumentsComponent = (function () {
                 description: "Lorem Ipsum...",
                 file_url: "http://google.com",
                 updated_at: "11/11/2017",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             },
             { title: "My Second Doc",
                 description: "Lorem Ipsum 2nd doc...",
                 file_url: "http://google.com",
                 updated_at: "12/11/2017",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             },
             { title: "My Third Doc",
                 description: "Lorem Ipsum 3rd...",
                 file_url: "http://google.com",
                 updated_at: "13/11/2017",
-                image_url: "http://google.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             }
         ];
     }
